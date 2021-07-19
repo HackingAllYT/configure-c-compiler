@@ -24,6 +24,10 @@ Este tutorial vaise dividir en dúas partes, unha primeira orientada a instalar 
 Windows e unha segunda orientada a xerar o noso primeiro arquivo en C, compilalo e executalo.
 Esta última vai ser conxunta, xa que van ser exactamente os mesmos pasos para ámbolos dous casos.
 
+No caso de estar empregando unha distribución Linux podes saltar a parte na que se explica como se instala
+Ubuntu en Windows, xa que a parte común e realmente importante é a final, onde se explica como programar un
+pequeno programa moi básico, como se compila e como se executa.
+
 ## Windows 10
 
 O primeiro paso é instalar a versión de Ubuntu escollida, no meu caso, e a día de hoxe, a última versión é a 
