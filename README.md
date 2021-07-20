@@ -33,14 +33,14 @@ pequeno programa moi básico, como se compila e como se executa.
 O primeiro paso é instalar a versión de Ubuntu escollida, no meu caso, e a día de hoxe, a última versión é a 
 20.04. Para conseguila hai que ir a tenda de Windows, 'Microsoft Store' para descargar e instalar esta aplicación:
 
-// Foto de Ubuntu na tenda
-<p align="center"> <img src="https://github.com/HackingAllYT/configure-c-compiler/tree/main/Imaxes/Ubuntu_2004_store.png"> </p>
+<!-- // Foto de Ubuntu na tenda -->
+<p align="center"> <img src="https://raw.githubusercontent.com/HackingAllYT/configure-c-compiler/main/Imaxes/Ubuntu_2004_store.png"> </p>
 
 A continuación recomendo instalar tamén a aplicación de 'Windows Terminal', tamén dispoñible na tenda de 
 Microsoft.
 
-// Foto de Windows Terminal na Tenda
-<p align="center"> <img src=""> </p>
+<!-- // Foto de Windows Terminal na Tenda -->
+<p align="center"> <img src="https://raw.githubusercontent.com/HackingAllYT/configure-c-compiler/main/Imaxes/Windows_Terminal_store.png"> </p>
 
 O seguinte paso é activar WSL, é dicir, a plataforma de Microsoft Windows Subsystem for Linux, que ven sendo
 paravirtualización do Sistema Operativo para integrar Windows con Ubuntu, permitindo entrar en tódolos arquivos
@@ -56,8 +56,8 @@ comando:
 Unha vez executado este comando xa podemos abrir a aplicación de Ubuntu 20.04 para probar que todo funciona
 correctamente e que non nos da erro ao abrir o programa. Se esto ocorre deberíamos obter unha saída parecida a esta:
 
-// Foto de Ubuntu pedindo introducir o nome polo que queremos ser coñecidos
-<p align="center"> <img src=""> </p>
+<!-- // Foto de Ubuntu pedindo introducir o nome polo que queremos ser coñecidos -->
+<p align="center"> <img src="https://raw.githubusercontent.com/HackingAllYT/configure-c-compiler/main/Imaxes/Ubuntu_installed.png"> </p>
 
 É posible que teñamos que reiniciar o equipo para que estes cambios teñan efecto.
 
