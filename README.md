@@ -34,7 +34,7 @@ O primeiro paso é instalar a versión de Ubuntu escollida, no meu caso, e a dí
 20.04. Para conseguila hai que ir a tenda de Windows, 'Microsoft Store' para descargar e instalar esta aplicación:
 
 // Foto de Ubuntu na tenda
-<p align="center"> <img src=""> </p>
+<p align="center"> <img src="https://github.com/HackingAllYT/configure-c-compiler/tree/main/Imaxes/Ubuntu_2004_store.png"> </p>
 
 A continuación recomendo instalar tamén a aplicación de 'Windows Terminal', tamén dispoñible na tenda de 
 Microsoft.
