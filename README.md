@@ -119,7 +119,28 @@ código, por convenio devólvese un ```0``` para indicar que non houbo erros dur
 
 int main() {
    // printf() displays the string inside quotation
-   printf("Ola Mundo!");
+   printf("Ola Mundo!\n");
    return 0;
 }
 ```
+
+## Compilar
+
+Unha vez que programamos o noso código temos que compilalo para poder executalo e ver que tal funciona e que fai o noso
+código, para esto o que hai que facer e acceder á carpeta na que temos o noso código, que se seguimos os pasos en orde
+non faría falta xa que xa estaríamos no directorio onde se atopa o noso código. Ben é certo que esto non é extrictamente
+preciso, pero para este tutorial é o máis apropiado.
+
+Para a compilación imos a empregar o compilador por excelencia de linux, é dicir, o ```gcc```, GNU Compiler Collection,
+que como ben di o seu nome realmente é un conxunto de compiladores, pero para o noso uso podémolo definir perfectamente
+coma un só compilador. Para compilar tan só é preciso executar o seguinte comando:
+
+```sh
+gcc olaMundo.c -o olaMundo
+```
+
+Este comando o que vai facer é compilar o noso programa, ```olaMundo.c``` e gardalo nun arquivo executable ```olaMundo```,
+o nome deste executable pode ser calquera que queirades, como se non o queredes poñer, tede en conta que se non especificades
+un nome por defecto vai asignarlle ```a.out```.
+
+## Executar
