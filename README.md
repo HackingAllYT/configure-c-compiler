@@ -144,3 +144,21 @@ o nome deste executable pode ser calquera que queirades, como se non o queredes 
 un nome por defecto vai asignarlle ```a.out```.
 
 ## Executar
+
+Chegados a este punto a execución é o máis sinxelo que imos facer, xa que só é preciso escribir un comando e xa poderíamos
+ver por pantalla o noso saludo.
+
+Se compilamos empregando o comando indicado previamente só tendes que escribir ```./olaMundo``` para que se execute, se pola
+contra non lle puxéchedes nome ao executable tendes que poñer ```./a.out``` para executar, deberíades obter unha saída 
+parecida a esta:
+
+<!-- // Foto do código executado -->
+<p align="center"> <img src=""> </p>
+
+# Conclusións finais
+
+Como puidéchedes ver a programación é un mundo moi completo e fermoso onde cada cousa encárgase dunha pequena tarefa
+para que todo funcione á perfección.
+
+Espero que quedárades con ganas de seguir aprendendo, calquera dúbida non dudedes en contactar conmigo.
+Vémonos pronto!
