@@ -153,7 +153,7 @@ contra non lle puxéchedes nome ao executable tendes que poñer ```./a.out``` pa
 parecida a esta:
 
 <!-- // Foto do código executado -->
-<p align="center"> <img src=""> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/HackingAllYT/configure-c-compiler/main/Imaxes/Execucion.png"> </p>
 
 # Conclusións finais
 
